@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Martin-Muraskovas
+- Hi, I’m @Martin-Muraskovas
 - I typically code for fun, here is my favourite script that I've made so far: [Are Manchester United Good?](https://github.com/Martin-Muraskovas/are_manchester_united_good)
 - I enjoy Python, C#, and JavaScript.
